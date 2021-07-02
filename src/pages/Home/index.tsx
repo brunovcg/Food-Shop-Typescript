@@ -34,7 +34,7 @@ export const Home = () => {
             <div className="headerBox">
                 
                 <p>Welcome to</p>
-                <h1>Kenzie Shop</h1>
+                <h1>Food Shop</h1>
             </div>
 
             <div className="descriptionBox">   
